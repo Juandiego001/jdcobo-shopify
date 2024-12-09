@@ -1,3 +1,7 @@
+# jdcobo-shopify
+
+Página web de Shopify de prueba para estudio del sistema Liquid
+
 # Dawn
 
 [![Build status](https://github.com/shopify/dawn/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Shopify/dawn/actions/workflows/ci.yml?query=branch%3Amain)
